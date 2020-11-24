@@ -17,13 +17,34 @@ Contact info:
   * [Google Cloud Platform](https://cloud.google.com/): $300 in free credits for first time users, best for experienced developer
   * [Vast.ai](https://vast.ai/): Affordable GPU rentals, requires some knowledge of servers and build scripts
   
+## Course Description
+
+Generative Adversarial Networks (GANs) are the current state of the art machine learning technology to synthesize imagery. In Making Visual Art with GANs students will use popular deep learning models to create images, videos, and interactive experiences. The focus will be on hands-on experimentation with style transfer, CycleGAN/Pix2Pix, and StyleGAN2-ADA in RunwayML and Google Colab. The course will cover the theory behind deep learning and GANs, using pre-trained models, dataset creation, and training custom models. We’ll look at ways to generate images and videos using Python, p5.js, as well as reacting to sound and motion inputs. Coding in Python is not required for this course, but a general knowledge of programming basics is encouraged.
+
+## Objectives
+* Distinguish between the different types of GANs and know when to use one over the other
+* Learn to use pre-trained models to generate images and video
+* Create custom datasets and train your own GANs
+* Connect models to external applications
+
+## Evaluation Criteria
+
+Due to the short schedule of this class, there will be no final project. Grading therefore will rely on participation and completion of the weekly homework assignments
+
+* 30% in-class and asynchronous participation
+* 70% weekly homework assignments
+
 ## Course Schedule
 
 This section will be updated over the course of the class with recordings, slides, and links.
 
 ### Week 1
+* ML, Deep Learning, GAN intro
+* RunwayML Tutorial
 
 ### Week 2
+* Types of Models 
+* Colab Tutorial
 
 ### Week 3
 
