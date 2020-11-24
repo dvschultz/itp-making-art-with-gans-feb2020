@@ -2,9 +2,10 @@
 ## ITP 2020
 
 **Instructor: [Derrick Schultz](https://artificial-images.com/)**
+
 Contact info:
-• Slack (preferred): @derrick
-• [Email](mailto:dvsmethid@gmail.com)
+* Slack (preferred): @derrick
+* [Email](mailto:dvsmethid@gmail.com)
 
 ### Required Technology
 * [Slack](https://join.slack.com/t/ml-images/shared_invite/zt-9mxoe7va-eBZ9xzAWpx8VRL~Km_PzUQ) for async communication. Important communications will also be sent by email.
