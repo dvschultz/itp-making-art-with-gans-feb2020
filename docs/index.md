@@ -1,5 +1,5 @@
 ## Making Art With GANs
-#### ITP 2020
+#### ITP 2020, Mondays 8pm–10:30pm EST beginning 02/01
 
 **Instructor: [Derrick Schultz](https://artificial-images.com/)**
 
@@ -46,15 +46,21 @@ This section will be updated over the course of the class with recordings, slide
 * Types of Models 
 * Colab Tutorial
 
-### Week 3
+### Week 3 (02/18)
+* Custom Dataset Creation
 
 ### Week 4
+* Training Custom Models in Runway and Colab
 
 ### Week 5
+* Style Transfer, CycleGAN/MUNIT, StyleGAN2-ADA
 
 ### Week 6
+* Inference
 
 ### Week 7
+* Additional Resources
+* Show N Tell
   
 #### STATEMENT OF ACADEMIC INTEGRITY 
 
