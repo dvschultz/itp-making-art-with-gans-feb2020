@@ -29,36 +29,39 @@ Generative Adversarial Networks (GANs) are the current state of the art machine 
 
 ## Evaluation Criteria
 
-Due to the short schedule of this class, there will be no final project. Grading therefore will rely on participation and completion of the weekly homework assignments
+Due to the short schedule of this class, there will be no final project. There will be a Show N Tell at the end of the class but you do not have to create work specifically for this session. Grading therefore will rely on participation and completion of the weekly homework assignments
 
 * 30% in-class and asynchronous participation
-* 70% weekly homework assignments
+* 50% weekly homework assignments and documentation
+* 20% End of Class Show N Tell
 
 ## Course Schedule
 
 This section will be updated over the course of the class with recordings, slides, and links.
 
-### Week 1
+### Week 1 02/01
 * ML, Deep Learning, GAN intro
 * RunwayML Tutorial
 
-### Week 2
+### Week 2 02/08
 * Types of Models 
 * Colab Tutorial
 
-### Week 3 (02/18)
+### No Class on 02/15
+
+### Week 3 02/17 (Note: this is a Wednesday)
 * Custom Dataset Creation
 
-### Week 4
+### Week 4 02/22
 * Training Custom Models in Runway and Colab
 
-### Week 5
+### Week 5 03/01
 * Style Transfer, CycleGAN/MUNIT, StyleGAN2-ADA
 
-### Week 6
+### Week 6 03/08
 * Inference
 
-### Week 7
+### Week 7 03/15
 * Additional Resources
 * Show N Tell
   
