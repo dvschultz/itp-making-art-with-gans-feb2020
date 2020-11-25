@@ -8,7 +8,7 @@ Contact info:
 * [Email](mailto:dvsmethid@gmail.com)
 
 #### Office Hours
-Standing office hours will be established during thr first week of class. Individual sessions ca be set up with Derrick on [Calendly](https://calendly.com/derrick-schultz/itp-gans-1-1)
+Standing office hours will be established during the first week of class. Individual sessions ca be set up with Derrick on [Calendly](https://calendly.com/derrick-schultz/itp-gans-1-1)
 
 ## Course Description
 
@@ -38,6 +38,9 @@ Due to the short schedule of this class, there will be no final project. There w
   * [Google Cloud Platform](https://cloud.google.com/): $300 in free credits for first time users, best for experienced developer
   * [Vast.ai](https://vast.ai/): Affordable GPU rentals, requires some knowledge of servers and build scripts
 
+## Resources
+* [YouTube Channel](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA)
+
 ## Course Schedule
 
 This section will be updated over the course of the class with recordings, slides, and links.
@@ -45,6 +48,9 @@ This section will be updated over the course of the class with recordings, slide
 ### Week 1 02/01
 * ML, Deep Learning, GAN intro
 * RunwayML Tutorial
+
+#### Resources
+* [Install and Use Runnway](https://youtu.be/WcsmD0pSrKc)
 
 #### Homework
 Play with the models in Runway
