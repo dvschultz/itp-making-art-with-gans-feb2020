@@ -43,6 +43,16 @@ This section will be updated over the course of the class with recordings, slide
 * ML, Deep Learning, GAN intro
 * RunwayML Tutorial
 
+#### Homework
+Play with the models in Runway
+- Find a model to explore
+- [Playlist of demos on YouTube](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9O0nxlcauZHS8ORM2AsBkw)
+- In the class Slack tell us the following:
+	- What model you used
+	- What the inputs and outputs were
+	- What questions you have about the model
+	- Show us what you made
+
 ### Week 2 02/08
 * Types of Models 
 * Colab Tutorial
