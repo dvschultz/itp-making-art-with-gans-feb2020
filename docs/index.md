@@ -52,6 +52,7 @@ Play with the models in Runway
 	- What the inputs and outputs were
 	- What questions you have about the model
 	- Show us what you made
+- Do this for at least three models
 
 ### Week 2 02/08
 * Types of Models 
