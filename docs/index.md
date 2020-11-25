@@ -6,7 +6,10 @@
 Contact info:
 * Slack (preferred): @derrick
 * [Email](mailto:dvsmethid@gmail.com)
-  
+
+#### Office Hours
+Standing office hours will be established during thr first week of class. Individual sessions ca be set up with Derrick on [Calendly](https://calendly.com/derrick-schultz/itp-gans-1-1)
+
 ## Course Description
 
 Generative Adversarial Networks (GANs) are the current state of the art machine learning technology to synthesize imagery. In Making Visual Art with GANs students will use popular deep learning models to create images, videos, and interactive experiences. The focus will be on hands-on experimentation with style transfer, CycleGAN/Pix2Pix, and StyleGAN2-ADA in RunwayML and Google Colab. The course will cover the theory behind deep learning and GANs, using pre-trained models, dataset creation, and training custom models. We’ll look at ways to generate images and videos using Python, p5.js, as well as reacting to sound and motion inputs. Coding in Python is not required for this course, but a general knowledge of programming basics is encouraged.
