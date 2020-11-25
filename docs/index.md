@@ -51,6 +51,7 @@ This section will be updated over the course of the class with recordings, slide
 
 #### Resources
 * [Install and Use Runnway](https://youtu.be/WcsmD0pSrKc)
+* [RunwayML Demos Playlist](https://www.youtube.com/playlist?list=PLWuCzxqIpJs8OOUUePUNVCHrCGDoKTtyn)
 
 #### Homework
 Play with the models in Runway
