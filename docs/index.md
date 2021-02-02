@@ -55,6 +55,10 @@ This section will be updated over the course of the class with recordings, slide
 * [Install and Use Runnway](https://youtu.be/WcsmD0pSrKc)
 * [RunwayML Demos Playlist](https://www.youtube.com/playlist?list=PLWuCzxqIpJs8OOUUePUNVCHrCGDoKTtyn)
 
+#### Additional Links
+* [DALL-E](https://openai.com/blog/dall-e/)
+* [Longer RunwayML Course](https://www.youtube.com/playlist?list=PLWuCzxqIpJs-UUGxN8T0a4DKhbXqClk1t) (For more Runway content)
+
 #### Homework
 Play with the models in Runway
 - Find a model to explore
