@@ -51,6 +51,7 @@ This section will be updated over the course of the class with recordings, slide
 
 #### Resources
 * [Slides](https://docs.google.com/presentation/d/1JXjHu3x8eH2XXYdFsQNL_OCdQpkWyDPTAyOTu_PvEEk/edit?usp=sharing)
+* [Recording](https://youtu.be/C0HMlAWVr8k)
 * [Install and Use Runnway](https://youtu.be/WcsmD0pSrKc)
 * [RunwayML Demos Playlist](https://www.youtube.com/playlist?list=PLWuCzxqIpJs8OOUUePUNVCHrCGDoKTtyn)
 
