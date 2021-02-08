@@ -74,6 +74,24 @@ Play with the models in Runway
 * Types of Models 
 * Colab Tutorial
 
+#### Resources
+* [Slides](https://docs.google.com/presentation/d/1DGkE8DkVv5xlSkutEirZ4utxQCSPjgzSVcLL2-CJiNo/edit?usp=sharing)
+* [Colab Demos on YouTube](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE)
+* [List of ML Art Colabs](https://github.com/dvschultz/ml-art-colabs)
+
+#### Additional Links
+
+#### Homework
+Play with the models in Colab
+- Find a model to explore
+- [Playlist of demos on YouTube](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE)
+- In the class Slack tell us the following:
+	- What model you used
+	- What the inputs and outputs were
+	- What questions you have about the model
+	- Show us what you made
+- Do this for at least three models
+
 ### No Class on 02/15
 
 ### Week 3 02/17 (Note: this is a Wednesday)
