@@ -76,6 +76,7 @@ Play with the models in Runway
 
 #### Resources
 * [Slides](https://docs.google.com/presentation/d/1DGkE8DkVv5xlSkutEirZ4utxQCSPjgzSVcLL2-CJiNo/edit?usp=sharing)
+* [Recordig](https://youtu.be/kOoz0_uaOVE)
 * [Colab Demos on YouTube](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE)
 * [List of ML Art Colabs](https://github.com/dvschultz/ml-art-colabs)
 
