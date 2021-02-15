@@ -81,6 +81,8 @@ Play with the models in Runway
 * [List of ML Art Colabs](https://github.com/dvschultz/ml-art-colabs)
 
 #### Additional Links
+* [ML Art Colab Class (4 Weeks of lectures)](https://youtube.com/playlist?list=PLWuCzxqIpJs8PN_bY5FON5mFqZ0I9QoSG)
+* [ML Art Datasets (4 Weeks of lectures)](https://www.youtube.com/playlist?list=PLWuCzxqIpJs-YLb2Yc3Y6rGJlYxVWFNoi)
 
 #### Homework
 Play with the models in Colab
