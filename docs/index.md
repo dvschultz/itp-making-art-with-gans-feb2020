@@ -97,7 +97,7 @@ Play with the models in Colab
 
 ### No Class on 02/15
 
-### Week 3 02/17 (Note: this is a Wednesday)
+### Week 3 02/18 (Note: this is a Thursday)
 * Custom Dataset Creation
 
 ### Week 4 02/22
