@@ -102,6 +102,12 @@ Play with the models in Colab
 
 #### Resources
 * [Slides](https://docs.google.com/presentation/d/1Gaiamd-Nn1kCcUWYZYGeNhM9oSAORZomMrcNO_b5xY8/edit?usp=sharing)
+* [Recordings](https://youtu.be/rQK3uR0GNwQ)
+* [Datasets playlist on YouTube](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq)
+
+#### Additional Links
+* [instagram-scraper documentation](https://github.com/arc298/instagram-scraper)
+* [dataset-tools documentation](https://github.com/dvschultz/dataset-tools)
 
 ### Week 4 02/22
 * Training Custom Models in Runway and Colab
