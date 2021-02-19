@@ -100,6 +100,9 @@ Play with the models in Colab
 ### Week 3 02/18 (Note: this is a Thursday)
 * Custom Dataset Creation
 
+#### Resources
+* [Slides](https://docs.google.com/presentation/d/1Gaiamd-Nn1kCcUWYZYGeNhM9oSAORZomMrcNO_b5xY8/edit?usp=sharing)
+
 ### Week 4 02/22
 * Training Custom Models in Runway and Colab
 
