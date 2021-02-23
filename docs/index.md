@@ -118,6 +118,7 @@ Play with the models in Colab
 
 #### Additional Links
 * [Splitting video into frames](https://youtu.be/ck11jOVYlIw)
+* [Great style transfer artist](https://twitter.com/luluixixix)
 
 ### Week 5 03/01
 * Style Transfer, CycleGAN/MUNIT, StyleGAN2-ADA
