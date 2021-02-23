@@ -112,6 +112,13 @@ Play with the models in Colab
 ### Week 4 02/22
 * Training Custom Models in Runway and Colab
 
+#### Resources
+* [Slides](https://docs.google.com/presentation/d/1bhG5CT_rt92sbbQjFcHSHyo5wBAD0tqpHRTjYjLkJBM/edit?usp=sharing)
+* [Recordings](https://youtu.be/NRsasdut_vI)
+
+#### Additional Links
+* [Splitting video into frames](https://youtu.be/ck11jOVYlIw)
+
 ### Week 5 03/01
 * Style Transfer, CycleGAN/MUNIT, StyleGAN2-ADA
 
