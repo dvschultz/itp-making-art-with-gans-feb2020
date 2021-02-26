@@ -119,6 +119,7 @@ Play with the models in Colab
 #### Additional Links
 * [Splitting video into frames](https://youtu.be/ck11jOVYlIw)
 * [Great style transfer artist](https://twitter.com/luluixixix)
+* [Demo of neural-style-tf notebook](https://youtu.be/YyB5yzbZuc8?t=1183)
 
 ### Week 5 03/01
 * Style Transfer, CycleGAN/MUNIT, StyleGAN2-ADA
