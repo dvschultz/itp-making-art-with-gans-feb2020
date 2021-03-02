@@ -126,6 +126,7 @@ Play with the models in Colab
 
 #### Resources
 * [Slides](https://docs.google.com/presentation/d/1tkmj8gk6lQROqnlTVNz6DAJCA-2TKyn6vL-ALYyInz0/edit?usp=sharing)
+* [Recording](https://youtu.be/O1qXqrn4Jio)
 
 #### Homework
 * **Train a StyleGAN2-ADA-PyTorch or MUNIT model (you could also try a CycleGAN or Pix2Pix model if you want)**
