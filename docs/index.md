@@ -122,7 +122,13 @@ Play with the models in Colab
 * [Demo of neural-style-tf notebook](https://youtu.be/YyB5yzbZuc8?t=1183)
 
 ### Week 5 03/01
-* Style Transfer, CycleGAN/MUNIT, StyleGAN2-ADA
+* Training StyleGAN2 and MUNIT
+
+#### Resources
+* [Slides](https://docs.google.com/presentation/d/1tkmj8gk6lQROqnlTVNz6DAJCA-2TKyn6vL-ALYyInz0/edit?usp=sharing)
+
+#### Homework
+* **Train a StyleGAN2-ADA-PyTorch or MUNIT model (you could also try a CycleGAN or Pix2Pix model if you want)**
 
 ### Week 6 03/08
 * Inference
