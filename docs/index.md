@@ -134,6 +134,10 @@ Play with the models in Colab
 ### Week 6 03/08
 * Inference
 
+#### Resources
+* [Slides](https://docs.google.com/presentation/d/16OqGJ2vg6JuVUqeBny5vXxoHX8ypCQlSdalUX2T58zk/edit?usp=sharing)
+* [Recording]()
+
 ### Week 7 03/15
 * Additional Resources
 * Show N Tell
