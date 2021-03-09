@@ -136,7 +136,7 @@ Play with the models in Colab
 
 #### Resources
 * [Slides](https://docs.google.com/presentation/d/16OqGJ2vg6JuVUqeBny5vXxoHX8ypCQlSdalUX2T58zk/edit?usp=sharing)
-* [Recording]()
+* [Recording](https://youtu.be/GmJtBokfIuk)
 
 ### Week 7 03/15
 * Additional Resources
