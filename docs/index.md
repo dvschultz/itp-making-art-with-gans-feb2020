@@ -141,6 +141,9 @@ Play with the models in Colab
 ### Week 7 03/15
 * Additional Resources
 * Show N Tell
+
+#### Resources
+* [Slides](https://docs.google.com/presentation/d/1x--ueLhVZIkskSr1N1KRLbHq_kLpdGtKYxmIyu63Ido/edit?usp=sharing)
   
 #### STATEMENT OF ACADEMIC INTEGRITY 
 
